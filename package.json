@@ -1,0 +1,9 @@
+{
+  "name": "snake-game",
+  "version": "1.0.0",
+  "description": "This is a basic snake game.",
+  "main": "script.js",
+  "scripts": {
+    "start": "http-server -p 3000"
+  }
+}
