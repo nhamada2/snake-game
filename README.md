@@ -7,4 +7,4 @@ This is a basic snake game.<br /><br />
 
 To run the game, either:
 * Open "index.html" in a web browser
-* Open the terminal, run "npm start", and go to http://localhost:3000/
+* Open a new terminal, run "npm start", and go to http://localhost:3000/
